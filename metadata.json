@@ -1,0 +1,5 @@
+{
+  "name": "Netcup Guardian",
+  "description": "A centralized dashboard to monitor Netcup VPS traffic throttling via SCP API, automatically managing Vertex downloaders and qBittorrent instances based on bandwidth status.",
+  "requestFramePermissions": []
+}
